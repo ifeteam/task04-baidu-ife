@@ -29,8 +29,12 @@ ul{
     height:70px;
     line-height: 70px;
     background-color:#000;
+    color: #ffffff;
 }
 
+#footer a{
+    color: #00ffff;
+}
 
 .nav-bar{
     width:1263px;
